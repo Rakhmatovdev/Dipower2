@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Node,express,backend,mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon --watch index.ja"
+  },
+  "author": "Jasur",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1"
+  }
+}
